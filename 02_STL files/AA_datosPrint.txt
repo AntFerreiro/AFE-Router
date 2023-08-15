@@ -1,0 +1,52 @@
+Bearing holder 			(1 normal, 1 Mirror)	28Min
+Motor_Cover_2			(1 normal, 1 Mirror)	1h48min		31g
+LeadScrew_Block1		(4 normal)				32min		8g
+spindle_holder_53mm		(1 normal)				5h4min		96gr
+spindle_clip_53mm		(1 normal)				4h6min		78g
+Motor_support			(1 normal)				2h47min		51gr
+bearing_holder2			(2 normal)				20min		6gr
+CableChain_holder		(1 normal)				25min		7gr
+Profile_holder			(2 normal)				20			6gr		
+Fixment					(28normal)				11min		4gr	
+Fixment20x20			(10 normal)				9min		3			
+
+---- Vacuum ----
+Vacuum_holder1			(1 normal)				3h30min		68gr
+Vacuum_holder2			(1 normal, 1 Mirror)	1h48min		19gr
+Foam_holder				(1 normal)				3h33min		71gr
+Hose_Holder				(1 normal)				1h23min		26gr	
+Hose_Clip				(1 normal)				17min		6gr
+
+
+
+---- Front pannel ----
+Top_Display				(1 normal)				3h5min		63g
+EStop_Cover				(1 normal)				2h10min		42gr
+
+
+---- carro eje x ----
+Carro_eje_X_plate		(1 normal)				6h7min		113gr
+Carro_eje_X_plate_back	(1 normal)				2h37min		56gr
+Carro_eje_X_plate_top1	(1 normal)				1h35min		27gr
+Carro_eje_X_plate_bottom(1 normal)				1h33min		27gr
+LeadScrew_Block2		(1 normal)				40min		10gr
+LeadScrew_Block3		(1 normal)				20min		7gr
+
+---- carro eje x ----
+Carro_eje_Z_plate		(1 normal)				3h12min		67gr
+
+---- carro eje y ----
+Carro_eje_Y_plate		(1 normal)				5h16min		118gr
+Carro_eje_Y_plate_mot	(1 normal)				5h51min		122gr
+
+---- Back pannel ----
+Switch_holder			(1 normal)				28min		10gr
+AC_holder				(1 normal)				32min		9gr
+USB_holder				(1 normal)				19min		5gr
+Fan_Holder				(1 normal)				18min		5gr
+
+---- Holders ----
+DC_12V_support		(1 normal)				57min		20gr
+Relay_holder			(1 normal)				58min		21gr
+LSHolder_v2				(4 normal)				9min		3gr
+LSHolder_v3				(1 normal)				14min		4gr
