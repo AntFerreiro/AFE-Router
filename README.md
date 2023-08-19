@@ -1,7 +1,13 @@
 # AFE Router Documentation
-This repository contain all materials for the assembly of the second version of this CNC Machine. This documentation is free and any commercial use is not allowed. Make sure to follow the repository to get the latest updates.
+This repository contain all materials for the assembly of the second version of this CNC Machine. 
+
+This documentation is free and any commercial use is not allowed. Make sure to follow the repository to get the latest updates.
 
 I hope you enjoy the project!
+
+## Software
+This machine is based on Marlin for the firmware. An extra branch has been created for this machine [AFE Router Version 2.0](https://github.com/AntFerreiro/Marlin)
+For extra support and documentation for the firmware, go check the official [Marlin](https://github.com/MarlinFirmware/Marlin) repository.
 
 ## Drawings
 Drawings are provided since not everyone may use the STL files as they are. Drawings make possible to modify some pieces so the still match with the rest of the machine.
